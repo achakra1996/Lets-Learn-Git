@@ -1,1 +1,1 @@
-This is my first Git Learning
+This is my first Git Learning. But there is more to learn.
